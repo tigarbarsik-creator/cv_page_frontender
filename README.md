@@ -3,8 +3,13 @@
 ## About me
 
 ------
-    Semantic  ta
+    Semantic  tags
+    1.one
 -------
 
 
-![image](assets/avatar.png)
+ ![image](assets/avatar.png)
+
+
+ [CV page repository](https://github.com/tigarbarsik-creator/cv_page_frontender)
+
