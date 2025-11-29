@@ -8,8 +8,11 @@
 -------
 
 
- ![image](assets/avatar.png)
+ ![image](img.jpg)
 
 
  [CV page repository](https://github.com/tigarbarsik-creator/cv_page_frontender)
 
+
+
+ 

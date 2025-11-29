@@ -1,6 +1,6 @@
 body {;background-color: rgb(143, 4, 4); font-family: 'Times New Roman', Times, serif; }
 .header {font-size: 15px; text-align: center;}
-.my-phot { border-radius: 30px; width: 225px;height: 225px;}
+.my-phot { border-radius: 30px; width:20em;height: 25em; border: 2px solid greenyellow;}
 .header-1{}
 .header-2{color: rgb(184, 10, 146); font-size: 18px;}
 main {text-align: center; border: 1px solid darkgray;}
